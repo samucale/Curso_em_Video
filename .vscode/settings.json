@@ -4,5 +4,6 @@
         "c:\\Users\\Samuel\\.vscode\\extensions\\stefanwehr.write-your-python-program-0.11.2\\python\\src\\"
     ],
     "python.linting.enabled": false,
-    "jupyter.jupyterServerType": "remote"
+    "jupyter.jupyterServerType": "local",
+    "editor.fontSize": 16
 }
