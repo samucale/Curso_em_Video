@@ -6,7 +6,8 @@
       "name": "Exercício 46 – Contagem regressiva",
       "provenance": [],
       "mount_file_id": "1bPp2vBiXpRs7KA6_UTnu-_OP7UFE8FO5",
-      "authorship_tag": "ABX9TyPnxMtHkT/TV9vVG8AioW+u"
+      "authorship_tag": "ABX9TyPnxMtHkT/TV9vVG8AioW+u",
+      "include_colab_link": true
     },
     "kernelspec": {
       "name": "python3",
@@ -18,6 +19,16 @@
     "accelerator": "GPU"
   },
   "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/samucale/Curso_em_Video/blob/main/Exerc%C3%ADcio_46_%E2%80%93_Contagem_regressiva.py\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
     {
       "cell_type": "markdown",
       "metadata": {
@@ -43,7 +54,7 @@
         "    sleep(0.5)\n",
         "print ('BUM....BUM...BRUM')    "
       ],
-      "execution_count": 4,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -80,7 +91,7 @@
         "  sleep (1.0)\n",
         "print ('COOORRAAAAA')  "
       ],
-      "execution_count": 6,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
